@@ -1,8 +1,8 @@
 .messageCompact-kQa7ES, .messageCozy-2JPAPA{
 	background:transparent;
 	border:none;
-	padding-top:none;
-	padding-bottom:none;
+	padding-top:0px;
+	padding-bottom:0px;
 }
 .theme-dark .headerCozyMeta-rdohGq::after{display:none}
 .da-app .inner-zqa7da {
@@ -20,6 +20,6 @@
     border-bottom-right-radius: 1px; 
 }
 .video-1FfuMD {
-    background-color: rgba(2, 22, 45, 0.9);
-    border: none;
+    background-color: rgba(0, 0, 0, 0);
+    border: rgba(0, 0, 0, 0.25);
 }
