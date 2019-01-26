@@ -1,0 +1,25 @@
+.messageCompact-kQa7ES, .messageCozy-2JPAPA{
+	background:transparent;
+	border:none;
+	padding-top:none;
+	padding-bottom:none;
+}
+.theme-dark .headerCozyMeta-rdohGq::after{display:none}
+.da-app .inner-zqa7da {
+    box-shadow: none;
+    border-width: 1px;
+    border-style: none;
+    border-color: rgb(55, 92, 167);
+    border-image: initial;
+    border-radius: 5px;
+}
+.container-1UB9sr {
+    background-color: var(--color-main);
+    border: none; 
+    border-top-left-radius: 1px; 
+    border-bottom-right-radius: 1px; 
+}
+.video-1FfuMD {
+    background-color: rgba(2, 22, 45, 0.9);
+    border: none;
+}
