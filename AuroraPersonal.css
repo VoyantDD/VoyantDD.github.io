@@ -95,3 +95,16 @@
 .lookFilled-1Gx00P.colorGreen-29iAKY:hover {
     background: var(--main-color);
 }
+
+.emojiPicker-3m1S-j .scroller-3vODG7 {
+    height: 400px;
+}
+
+.emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA {
+    width: 40px;
+    height: 40px;
+}
+
+.emojiPicker-3m1S-j .scroller-3vODG7 .row-3j9Kuo {
+    height: 54px;
+}
