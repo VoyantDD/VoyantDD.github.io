@@ -1,3 +1,9 @@
+@import url('https://tropix126.github.io/BetterDiscordStuff/aurora/addons/disableExpansions.css');
+@import url('https://ellexidecodes.github.io/Discord-Themes/addons/categoryNameFlair.css');
+@import url("https://tropix126.github.io/BetterDiscordStuff/aurora/addons/friendGrid.css");
+@import url('https://ellexidecodes.github.io/Discord-Themes/addons/userSettingsModal.css');
+:root {--size: 65%;}
+
 .guild-1EfMGQ,
 .guild-1EfMGQ .guildInner-3DSoA4 a,
 .iconSizeLarge-161qtT {
@@ -10,10 +16,10 @@
 }
 
 #app-mount .selectorSelected-1_M1WV {
-	border:2px solid var(--boxcolor);
+    border:2px solid var(--boxcolor);
 }
 #app-mount .selectorSelected-1_M1WV {
-	background-color:rgba(0,0,0,0.2);
+    background-color:rgba(0,0,0,0.2);
 }
 
 .guildsError-3cFMtY, .da-guildsError {
@@ -28,7 +34,7 @@
 }
 
 .reply-list {
-	background-color:rgba(0,0,0,.55);
+    background-color:rgba(0,0,0,.55);
 }
 
 .theme-dark .markup-2BOw-j a {
@@ -50,12 +56,12 @@
 }
 
 .cooldownWrapper-3joyFc {
-	margin-left: 10px !important;
-	padding-bottom: 10px !important;
+    margin-left: 10px !important;
+    padding-bottom: 10px !important;
 }
 
 .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9:hover {
-	background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0,0,0,0.5);
 }
 
 .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9 {
@@ -63,29 +69,29 @@
 }
 
 .theme-dark .spoilerText-3p6IlD {
-	background-color: rgba(255, 30, 99, 0.2);
+    background-color: rgba(255, 30, 99, 0.2);
 }
 
 .popoutTopLeft-b5Eb3O.noArrow-3BYQ0Z {
-	margin-left: 85px;
+    margin-left: 85px;
 }
 
 .popoutBottom-1YbShG.noArrow-3BYQ0Z {
-	left: 325px !important;
+    left: 325px !important;
 }
 
 .headerSpotify-zpWxgT {
-	background: var(--RPheader-color);
+    background: var(--RPheader-color);
 }
 
 .headerStreaming-2FjmGz {
-	background: var(--RPheader-color);
+    background: var(--RPheader-color);
 }
 
 .headerPlaying-j0WQBV {
-	background: var(--RPheader-color) !important;
+    background: var(--RPheader-color) !important;
 }
 
 .lookFilled-1Gx00P.colorGreen-29iAKY:hover {
-	background: var(--main-color);
+    background: var(--main-color);
 }
