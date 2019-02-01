@@ -41,15 +41,7 @@
     color: #FF1463;
 }
 
-.attachPopout-1n-ZKM {
-    margin-left: 390px;
-    background: var(--backdrop) !important;
-    padding: 10px 10px 10px 10px;
-    border-radius: 0px !important;
-    border: 4px solid rgba(0,0,0,0.75) !important;
-    background-size: cover !important;
-    box-shadow: inset 0px 0px 0px 100px rgba(0,0,0,0.65);
-}
+
 
 .theme-dark .attachPopoutRow-KrE-f6:hover {
     background-color: rgba(0,0,0,0.25);
